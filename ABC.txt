@@ -1,2 +1,8 @@
 ABC.txt file is created in local repository
 hi this ia first example file
+
+
+The branch should now be created and active. You can confirm which branch you are working on by looking at the branch button. See that it now says "html-skeleton" instead of "main"?
+
+Start working on an existing file in this branch. Click the "ABC.html" file and start editing:
+
